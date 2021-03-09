@@ -1,0 +1,15 @@
+C:\Users\a\source\repos\AspNetCore_Demo\Hypermarket\bin\Debug\netcoreapp3.1\Hypermarket.exe
+C:\Users\a\source\repos\AspNetCore_Demo\Hypermarket\bin\Debug\netcoreapp3.1\Hypermarket.deps.json
+C:\Users\a\source\repos\AspNetCore_Demo\Hypermarket\bin\Debug\netcoreapp3.1\Hypermarket.runtimeconfig.json
+C:\Users\a\source\repos\AspNetCore_Demo\Hypermarket\bin\Debug\netcoreapp3.1\Hypermarket.runtimeconfig.dev.json
+C:\Users\a\source\repos\AspNetCore_Demo\Hypermarket\bin\Debug\netcoreapp3.1\Hypermarket.dll
+C:\Users\a\source\repos\AspNetCore_Demo\Hypermarket\bin\Debug\netcoreapp3.1\Hypermarket.pdb
+C:\Users\a\source\repos\AspNetCore_Demo\Hypermarket\obj\Debug\netcoreapp3.1\Hypermarket.csprojAssemblyReference.cache
+C:\Users\a\source\repos\AspNetCore_Demo\Hypermarket\obj\Debug\netcoreapp3.1\staticwebassets\Hypermarket.StaticWebAssets.Manifest.cache
+C:\Users\a\source\repos\AspNetCore_Demo\Hypermarket\obj\Debug\netcoreapp3.1\staticwebassets\Hypermarket.StaticWebAssets.xml
+C:\Users\a\source\repos\AspNetCore_Demo\Hypermarket\obj\Debug\netcoreapp3.1\Hypermarket.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\a\source\repos\AspNetCore_Demo\Hypermarket\obj\Debug\netcoreapp3.1\Hypermarket.AssemblyInfoInputs.cache
+C:\Users\a\source\repos\AspNetCore_Demo\Hypermarket\obj\Debug\netcoreapp3.1\Hypermarket.AssemblyInfo.cs
+C:\Users\a\source\repos\AspNetCore_Demo\Hypermarket\obj\Debug\netcoreapp3.1\Hypermarket.RazorTargetAssemblyInfo.cache
+C:\Users\a\source\repos\AspNetCore_Demo\Hypermarket\obj\Debug\netcoreapp3.1\Hypermarket.dll
+C:\Users\a\source\repos\AspNetCore_Demo\Hypermarket\obj\Debug\netcoreapp3.1\Hypermarket.pdb
